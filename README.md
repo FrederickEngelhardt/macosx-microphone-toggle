@@ -8,6 +8,7 @@
 4. To enable hotkeys open **System Preferences** and go into **Keyboard**
     1. Click **Services**
     2. You can find this service under **General**
+    3. enable the **Toggle Microphone Mute** service and assign a unique hotkey
 5. To enable TouchBar support go into **Extensions** then click **Touch Bar**
     1. Check the box next to **Toggle Microphone Mute**
     2. Click **Customize Control Strip** and then add the Quick Actions icon to your bar.
